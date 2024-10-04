@@ -8,13 +8,13 @@ proofer: false
 
 # site social media and other links
 links:
-  email: robert@cohab-lab.net
-  orcid: 0000-0001-8713-9213
+  email: robert@roberttwomey.com
+  orcid: https://orcid.org/0000-0002-9663-0706
   google-scholar: Q6J0fQ0AAAAJ
-  github: @roberttwomey
-  twitter: @roberttwomey
-  youtube: @roberttwomey
-  instagram: @robertwomey
+  github: roberttwomey
+  twitter: roberttwomey
+  youtube: roberttwomey
+  instagram: roberttwomey
 
 ### jekyll settings
 
