@@ -1,5 +1,5 @@
 
-# roberttwomeyDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# Stuying the ways we live, work, and learn with machines
 
 Visit **[roberttwomey.github.io/cohab-lab.net](https://roberttwomey.github.io/cohab-lab.net)** 🚀
 
