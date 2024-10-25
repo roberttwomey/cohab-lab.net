@@ -5,6 +5,19 @@
     {% include header.html %}
     <main>
       {% include content.html content=content %}
+
+      <h2>Latest RSS Feed Items</h2>
+
+      <ul>
+        {% for item in site.data.rss_feed_items %}
+          <li>
+            <a href="{{ item.link }}">{{ item.title }}</a>
+            <p>{{ item.description }}</p>
+            <small>{{ item.pubDate }}</small>
+          </li>
+        {% endfor %}
+      </ul>
+
     </main>
     {% include footer.html %}
   </body>
