@@ -11,10 +11,10 @@ module Jekyll
 
       site.data['rss_feed_items'] = doc.xpath('//item').map do |item|
         {
-          title: item.at_xpath('title')&.content,
-          link: item.at_xpath('link')&.content,
-          description: item.at_xpath('description')&.content,
-          pubDate: item.at_xpath('pubDate')&.content
+          title: item.at_xpath('title').content,
+          link: item.at_xpath('link').content,
+          description: item.at_xpath('description').content,
+          pubDate: item.at_xpath('pubDate').content
         }
       end
     end
