@@ -1,0 +1,18 @@
+<!--
+  modify main content of page:
+  - add section breaks
+  - attach section properties
+  - filter out blank sections
+-->
+
+<h2>News</h2>
+
+<ul>
+  {% for item in site.data.rss_feed_items %}
+    <li>
+      <a href="{{ item[:link] }}"">{{ item[:title] }}</a>
+      <small>{{ item[:pubDate] }}</small>
+      <p>{{ item }}</p>
+    </li>
+  {% endfor %}
+</ul>
