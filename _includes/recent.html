@@ -14,6 +14,7 @@
       <small>{{ item[:pubDate] }}</small>
       <p>{{ item }}</p>
       <p>{{ item.link }}</p>
+      <pre>{{ item | inspect }}</pre>
     </li>
   {% endfor %}
 </ul>
