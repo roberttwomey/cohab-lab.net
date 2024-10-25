@@ -12,7 +12,8 @@
         {% for item in site.data.rss_feed_items %}
           <li>
             <a href="{{ item[:link] }}">{{ item.[:title] }}</a>
-            <small>{{ item.pubDate }}</small>
+            <small>{{ item[:pubDate] }}</small>
+            <p>item</p>
           </li>
         {% endfor %}
       </ul>
