@@ -40,6 +40,7 @@ header a {
 
 .logo {
   height: $logo;
+  display: none;
 }
 
 .logo > * {
@@ -63,7 +64,6 @@ header a {
 }
 
 .subtitle {
-  font-size: var(--xxl);
   opacity: 0.65;
   font-weight: var(--thin);
 }
@@ -163,6 +163,6 @@ header[data-big] {
   }
 
   .subtitle {
-    font-size: var(--large);
+    font-size: var(--xxl);
   }
 }
