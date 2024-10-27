@@ -11,11 +11,8 @@
   {% for item in site.data.rss_feed_items %}
     <li>
       <!-- <a href ="{{ item[:link] }}">{{ item[:title] }}</a> -->
-      <p>{{ item[:link] }}</p>
-      <p>{{ item[:title] }}</p>
-      <small>{{ item[:pubDate] }}</small>
-      <pre>{{ item[:title] }}</pre>
-      <pre>{{ item }}</pre>
+      <p>{{ item.link }}</p>
+      <p>{{ item.title }}</p>
       <small>{{ item.pubDate }}</small>
       <pre>{{ item | jsonify }}</pre>
     </li>
