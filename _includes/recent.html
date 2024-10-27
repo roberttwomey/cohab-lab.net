@@ -16,6 +16,8 @@
       <small>{{ item[:pubDate] }}</small>
       <pre>{{ item[:title] }}</pre>
       <pre>{{ item }}</pre>
+      <small>{{ item.pubDate }}</small>
+      <pre>{{ item | jsonify }}</pre>
     </li>
   {% endfor %}
 </ul>
