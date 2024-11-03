@@ -79,32 +79,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   title="People"
   text=text
 %}-->
-
-## People
-- Robert Twomey, Ph.D. Director, Assistant Teaching Professor of Computing and the Arts, UCSD Visual Arts
-- Reid Brockmeier , Creative Technologist, Researcher on Generative AI, Digital Fabrication, Robotics,
-Embodied Code
-- Kylie Muller , Undergraduate Researcher on Embodied Code, Curriculum Design
-- Abraham Schaecher, UCARE Undergraduate Researcher on Generative AI, Data Science
-- Lincoln Graham, UCARE Undergraduate Researcher on "Narrative Systems and Performative AI"
-
-## Alumni
-- Emma Mirnics, Undergraduate Researcher with the Embodied Code Project
-- Caleb Kirilov, UCARE Undergraduate Researcher
-
-## Projects
-
-[TK]
-
-## Grants
-
-- Embodied Code is supported by [NSF Grant #2017042](https://nsf.gov/awardsearch/showAward?AWD_ID=2017042)
-- Edgeworks, NRI Core Research Facility ([link](https://arts.unl.edu/carson-
-center/news/carson-center-earns-core-research-facility-designation))
-- [SPACE^2: Space, Policy, Agriculture, Climate, and Extreme Environment](https://bse.unl.edu/space2)
-- Art and Empathy is supported by a CAC Research in the Arts Grant
-- NVIDIA Developer Program. HP Data Science Proof of Concept (Z8).
-
-## News
-{% rss_feed https://roberttwomey.com/rss %}
-
