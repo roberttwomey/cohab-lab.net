@@ -7,11 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}People
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+<!-- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. -->
 
-## People
+## Current
 - [Robert Twomey](https://roberttwomey.com) Ph.D., Director, Assistant Teaching Professor of Computing and the Arts, UCSD Visual Arts
 - [Reid Brockmeier](https://www.linkedin.com/in/reidbrockmeier308/), Creative Technologist, Researcher on Generative AI, Digital Fabrication, Robotics,
 Embodied Code
