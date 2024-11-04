@@ -7,9 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Please reuch out via email for inquiries about work, research, or possible collaboration.
+
+email: robert.twomey@gmail.com
+
+{% comment %}
 
 {%
   include button.html
@@ -17,6 +19,9 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   text="robert@roberttwomey.com"
   link="robert@roberttwomey.com"
 %}
+
+{% endcomment %}
+
 <!--{%
   include button.html
   type="phone"
@@ -29,6 +34,8 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   tooltip="Our location on Google Maps for easy navigation"
   link="https://www.google.com/maps"
 %}-->
+
+{% comment %}
 
 {% include section.html %}
 
@@ -75,3 +82,5 @@ sed do eiusmod tempor
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 col3=col3 %}
+
+{% endcomment %}
