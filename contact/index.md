@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Please reuch out via email for inquiries about work, research, or possible collaboration.
+Please reach out via email for inquiries about work, research, or possible collaboration.
 
 email: robert.twomey@gmail.com
 
