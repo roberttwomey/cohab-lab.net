@@ -11,7 +11,8 @@ At the Machine Cohabitation Lab ([cohab-lab.net](https://cohab-lab.net)), we pre
 	loop
 	muted
 	autoplay
-	preload="auto" width="100%">
+	preload="auto"
+  width="100%">
 <source src="images/cohab-looper.mp4" type="video/mp4">
 </video>
 *Videos from: A Machine for Living In (2018); Generative Dream Home (2023); ON DISPLAY GLOBAL (2022); Beyond the Black Box (2023); A Girl and Her Dog (2024)*
