@@ -7,6 +7,15 @@ At the Machine Cohabitation Lab ([cohab-lab.net](https://cohab-lab.net)), we pre
 
 {% include section.html %}
 
+<video class="background"
+	loop
+	muted
+	autoplay
+	preload="auto">
+<source src="images/cohab-looper.mp4" type="video/mp4">
+
+</video>
+
 <!--## Highlights
 
 {% capture text %}
