@@ -1,4 +1,8 @@
 ---
+title: Home
+nav:
+  order: 0
+  tooltip: About
 ---
 
 # Studying the Ways we Live, Work, and Learn with Machines
