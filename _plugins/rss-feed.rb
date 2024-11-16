@@ -42,9 +42,11 @@ module Jekyll
       output = "<ul>"
 
       feed.entries.each do |entry|
-        formatted_date = entry.published.strftime('%Y-%m-%d') if entry.published
+        # formatted_date = entry.published.strftime('%Y-%m-%d') if entry.published
+        formatted_date = entry.published.strftime('%B %d, %Y') if entry.published
         # output += "<li> #{formatted_date} <a href='#{entry.url}'>#{entry.title}</a></li>"
-        output += "<li><a href='#{entry.url}'>#{entry.title}</a></li>"
+        # output += "<li><a href='#{entry.url}'>#{entry.title}</a> </li>"
+        output += "<li> #{formatted_date} <a href='#{entry.url}'>#{entry.title}</a></li>"
       end
 
       output += "</ul>"
