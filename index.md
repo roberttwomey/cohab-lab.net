@@ -1,5 +1,5 @@
 ---
-title: Home
+title: About
 nav:
   order: 0
   tooltip: About
