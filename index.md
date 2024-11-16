@@ -23,7 +23,8 @@ At the Machine Cohabitation Lab ([cohab-lab.net](https://cohab-lab.net)), we pre
 
 {% rss_feed https://roberttwomey.com/rss %}
 
-<!--## Highlights
+{% comment %}
+## Highlights
 
 {% capture text %}
 
@@ -94,4 +95,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   link="people"
   title="People"
   text=text
-%}-->
+%}
+{% endcomment %}

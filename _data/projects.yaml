@@ -1,47 +1,69 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: "Beyond the Black Box: A Girl and her Dog"
+  subtitle:
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/girl-and-dog.jpg
+  link: https://roberttwomey.com/beyond-the-black-box/
+  description: A performance exploring connection and trust through experimental human-robot interaction.
+  # repo: greenelab/lab-website-template
   tags:
-    - resource
+    - performance
+    - robotics
+    - hri
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: The Theater of Latent Possibilities
+  subtitle:
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/tlp-demo-day.jpg
+  link: https://roberttwomey.com/2024/03/ai-theater-demo-at-carson-center/
+  description: Employing generative AI for real-time performance, to re-animate archives, hinging on improvisatory dynamics of HCI.
+  # repo: greenelab/lab-website-template
   tags:
-    - resource
+    - performance
+    - generative AI
+    - theater
+    - hci
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Art and Empathy
+  # subtitle: a subtitle
+  image: images/art-and-empathy.jpg
+  link: https://roberttwomey.com/art-and-empathy/
+  description: This project combines multi-modal sensing with subjective response data to better understand how people respond to art in the gallery.
   tags:
-    - resource
-    - publication
+    - cognitive science
+    - data science
+    - biosensing
 
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Embodied Code
+  # subtitle: 
+  image: images/embodied-code.png
+  link: https://embodiedcode.net/
+  description: A platform for visual programming in virtual reality.
+  # repo: greenelab/lab-website-template
   tags:
     - software
+    - creative coding
+    - code education
+    - hci
+    - vr
 
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: STREAMING
+  # subtitle: a subtitle
+  image: images/streaming.png
+  link: https://roberttwomey.com/streaming/
+  description: An exhibition and research project exploring networked culture streams and their ecological and social costs, proposing alternative loops for channeling digital flows and materializing data impacts.
+  # repo: greenelab/lab-website-template
   tags:
-    - software
+    - energy
+    - networked culture
+    - curatorial
+
+- title: Cultured Data Symposium
+  # subtitle: a subtitle
+  image: images/cultured-data.png
+  link: https://roberttwomey.com/2020/02/cultured-data-symposium/
+  description: "A two day symposium exploring intersections of Data Science and the Arts and Humanities, how analytic techniques enable new understandings of culture, and how data-intensive technologies change how culture is produced, distributed, and influenced."
+  # repo: greenelab/lab-website-template
+  tags:
+    - data science
+    - symposium
+    - curatorial
