@@ -20,13 +20,13 @@ Embodied Code
 - [Lincoln Graham](https://www.linkedin.com/in/lincoln-graham-589070321/) - UCARE Undergraduate Researcher on "Narrative Systems and Performative AI"
 
 ## Collaborators
-- **[Ying Choon Wu, Ph.D.](https://sccn.ucsd.edu/eeglab/eeglab_news/18/Wu.php)** - Director of the Insight Lab at UC San Diego. [insight.ucsd.edu/](https://insight.ucsd.edu/)
-- **[Ash Eliza Smith](https://arts.unl.edu/carson-center/faculty/ash-smith)** - Emerging Media Arts faculty and Director of the [Speculative Devices Lab](https://www.linkedin.com/company/speculative-devices-lab/posts/?feedView=all) at the [Johnny Carson Center for Emerging Media Arts](https://arts.unl.edu/carson-center), University of Nebraska-Lincoln.
-- **[Hortense Gerardo, Ph.D.](https://hortensegerardo.com/)** - Director of the [Anthropology, Performance, and Technology (APT) Program](https://jacobsschool.ucsd.edu/apt/about) at the Jacobs School of Engineering, UC San Diego.
-- **[Amy Eguchi, Ph.D.](https://eds.ucsd.edu/people/faculty/eguchi.html)** - Education Studies faculty, UC San Diego.
-- **[Jesse Fleming](https://arts.unl.edu/carson-center/faculty/jesse-fleming)** - Emerging Media Arts faculty and Director of the [Awareness Lab](https://awarenesslab.io/) at the [Johnny Carson Center for Emerging Media Arts](https://arts.unl.edu/carson-center), University of Nebraska-Lincoln.. [https://awarenesslab.io/](https://awarenesslab.io/)
-- **[Erik Viirre M.D., Ph.D.](https://profiles.ucsd.edu/erik.viirre)** - Director of the [Arthur C. Clarke Center for Human Imagination](https://imagination.ucsd.edu/), UC San Diego.
-- **[Cassi Vieten, Ph.D.](https://profiles.ucsd.edu/cassandra.vieten)** - Research Director of the [Arthur C. Clarke Center for Human Imagination](https://imagination.ucsd.edu/), UC San Diego.
+- [Ying Choon Wu, Ph.D.](https://sccn.ucsd.edu/eeglab/eeglab_news/18/Wu.php) - Director of the Insight Lab at UC San Diego. [insight.ucsd.edu/](https://insight.ucsd.edu/)
+- [Ash Eliza Smith](https://arts.unl.edu/carson-center/faculty/ash-smith) - Emerging Media Arts faculty and Director of the [Speculative Devices Lab](https://www.linkedin.com/company/speculative-devices-lab/posts/?feedView=all) at the [Johnny Carson Center for Emerging Media Arts](https://arts.unl.edu/carson-center), University of Nebraska-Lincoln.
+- [Hortense Gerardo, Ph.D.](https://hortensegerardo.com/) - Director of the [Anthropology, Performance, and Technology (APT) Program](https://jacobsschool.ucsd.edu/apt/about) at the Jacobs School of Engineering, UC San Diego.
+- [Amy Eguchi, Ph.D.](https://eds.ucsd.edu/people/faculty/eguchi.html) - Education Studies faculty, UC San Diego.
+- [Jesse Fleming](https://arts.unl.edu/carson-center/faculty/jesse-fleming) - Emerging Media Arts faculty and Director of the [Awareness Lab](https://awarenesslab.io/) at the [Johnny Carson Center for Emerging Media Arts](https://arts.unl.edu/carson-center), University of Nebraska-Lincoln.. [https://awarenesslab.io/](https://awarenesslab.io/)
+- [Erik Viirre M.D., Ph.D.](https://profiles.ucsd.edu/erik.viirre) - Director of the [Arthur C. Clarke Center for Human Imagination](https://imagination.ucsd.edu/), UC San Diego.
+- [Cassi Vieten, Ph.D.](https://profiles.ucsd.edu/cassandra.vieten) - Research Director of the [Arthur C. Clarke Center for Human Imagination](https://imagination.ucsd.edu/), UC San Diego.
 
 ## Alumni
 - [Emma Mirnics](https://www.linkedin.com/in/emma-mirnics/) - Undergraduate Researcher with the Embodied Code Project
