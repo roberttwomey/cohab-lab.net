@@ -6,3 +6,22 @@ main {
   flex-direction: column;
   flex-grow: 1;
 }
+
+/* Make sure the video container is responsive */
+.video-container {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;  /* Optional: max width to avoid stretching too much */
+  overflow: hidden; /* Hide overflow if the video crops */
+  margin: 0px;
+  padding: 0px;
+}
+
+/* Style the video to fill the container without black bars */
+video {
+  width: 100%;
+  height: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover; /* Ensures video fills the container completely */
+}

@@ -3,6 +3,7 @@
 
 # Studying the Ways we Live, Work, and Learn with Machines
 
+<div class="video-container">
 <video class="background"
 	loop
 	muted
@@ -11,6 +12,7 @@
   width="100%">
 <source src="images/cohab-looper.mp4" type="video/mp4">
 </video>
+</div>
 *Source: A Machine for Living In (2018); Generative Dream Home (2023); ON DISPLAY GLOBAL (2022); Beyond the Black Box (2023); A Girl and Her Dog (2024)*
 
 ## About
