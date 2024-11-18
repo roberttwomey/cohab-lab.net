@@ -1,1 +1,1 @@
-Sitemap: https://roberttwomey.github.io/cohab-lab.net/sitemap.xml
+Sitemap: http://cohab-lab.net/sitemap.xml
