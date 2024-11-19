@@ -25,9 +25,10 @@ At the Machine Cohabitation Lab ([cohab-lab.net](https://cohab-lab.net)), we pre
 
 ## Upcoming
 
-- January 28, 2025 Presenting on Scientific Computing for the Arts at 6NRP
+- January 28, 2025 Invited Speaker on Open Cyberinfrastructure and the Arts at 6NRP
 - January 23, 2025 AI Radio Play with Nebraska Public Media at the Sheldon Museum of Art
-- January 13, 2025 Presenting at Experimental Data Visualization Symposium at the University of Nebraska-Lincoln
+- January 13, 2025 Invited Speaker Experimental Data Visualization Symposium at the University of Nebraska-Lincoln
+- December 2, 2024 Fish Sound Bath at 17th International Conference on Interactive Digital Storytelling
 
 ## News
 
