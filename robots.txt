@@ -1,1 +1,1 @@
-Sitemap: http://cohab-lab.net/sitemap.xml
+Sitemap: https://cohab-lab.net/sitemap.xml
