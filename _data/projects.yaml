@@ -69,6 +69,7 @@
     - curatorial
 
 - title: AI Adaptive Script
+  group: software
   # subtitle: a subtitle
   image: images/ubik-script.png
   link: https://github.com/roberttwomey/radio-writing-tool
@@ -80,6 +81,7 @@
     - generative AI
 
 - title: xArm Omniverse
+  group: software
   # subtitle: a subtitle
   image: images/xarm-omniverse.png
   link: https://github.com/roberttwomey/xarm-omniverse
@@ -89,3 +91,14 @@
     - software
     - robotics
     - performance
+
+- title: Lightfield Imaging
+  group: software
+  # subtitle: a subtitle
+  image: images/vsfm.jpg
+  link: https://github.com/roberttwomey/lightfield
+  description: "This is visual structure from motion and computational imaging project using a robotic camera device, synthetic aperature photography, and machine listening to create a dreamlike exploration of space"
+  # repo: greenelab/lab-website-template
+  tags:
+    - software
+    - computer vision

@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-pencil" %}Publications
 
-[TK]
+See [roberttwomey.com/writing/](https://roberttwomey.com/writing/) for now.
 
 {% comment %}
 
