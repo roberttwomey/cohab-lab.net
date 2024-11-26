@@ -15,15 +15,14 @@ nav:
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
-## More
-
-<!-- {% include list.html component="card" data="projects" filters="group: " style="small" %} -->
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
-
 ## Software
 
 {% include list.html component="card" data="projects" filters="group: software" style="small" %}
 
+## More
+
+<!-- {% include list.html component="card" data="projects" filters="group: " style="small" %} -->
+{% include list.html component="card" data="projects" filters="group: " style="small" %}
 
 ## Grants
 
