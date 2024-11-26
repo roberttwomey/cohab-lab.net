@@ -67,3 +67,25 @@
     - data science
     - symposium
     - curatorial
+
+- title: AI Adaptive Script
+  # subtitle: a subtitle
+  image: images/ubik-script.png
+  link: https://github.com/roberttwomey/radio-writing-tool
+  description: "Adaptive script developed for the Bertelsmann x NYC Media Lab AI and Creative Industries Challenge"
+  # repo: greenelab/lab-website-template
+  tags:
+    - software
+    - performance
+    - generative AI
+
+- title: xArm Omniverse
+  # subtitle: a subtitle
+  image: images/xarm-omniverse.png
+  link: https://github.com/roberttwomey/xarm-omniverse
+  description: "Software for realtime vision-based control of the xArm using NVIDIA Omniverse Isaac Sim"
+  # repo: greenelab/lab-website-template
+  tags:
+    - software
+    - robotics
+    - performance
