@@ -23,13 +23,6 @@ nav:
 
 At the Machine Cohabitation Lab ([cohab-lab.net](https://cohab-lab.net)), we prepare for a future living, working, and learning with machines. We explore intersections of human and machine perception, particularly how emerging technology impacts sites of intimate life. We develop modes of embodied experience and experimental human-computer interaction. Using AI, data science, and distributed computing workflows, we explore creative AI and augmentation of human imagination. With IoT and embedded, situated computing, we create smart homes and responsive environments. Through all, we seek insight into human imagination and perception, staging mutually revelatory encounters between humans and machines. We strive to deepen our understanding of emerging technology, cultivate perspective on what we ask our machines to do, and inform the design of our future.
 
-## Upcoming
-
-- January 28, 2025 Invited Speaker on Open Cyberinfrastructure and the Arts at 6NRP
-- January 23, 2025 AI Radio Play with Nebraska Public Media at the Sheldon Museum of Art
-- January 13, 2025 Invited Speaker Experimental Data Visualization Symposium at the University of Nebraska-Lincoln
-- December 2, 2024 Fish Sound Bath at 17th International Conference on Interactive Digital Storytelling
-
 ## News
 
 {% rss_feed https://roberttwomey.com/rss %}
