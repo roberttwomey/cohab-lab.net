@@ -21,11 +21,12 @@ At the Machine Cohabitation Lab ([cohab-lab.net](https://cohab-lab.net)), we pre
 </div>
 *Video source: A Machine for Living In (2018); Generative Dream Home (2023); ON DISPLAY GLOBAL (2022); Beyond the Black Box (2023); A Girl and Her Dog (2024)*
 
+{% comment %}
 ## Upcoming
-
 - January 28, 2025 Speaking on Open Cyberinfrastructure for the Arts at the Sixth National Research Platform Workshop
 - January 23, 2025 AI Da Vinci Performance with Nebraska Public Media at the Sheldon Art Museum
 - January 13, 2025 Invited Speaker for Experimental Data Visualization Symposium at UNL
+{% endcomment %}
 
 ## News
 
