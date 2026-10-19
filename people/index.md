@@ -17,7 +17,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. --
 - Wallace Chiu - Undergraduate Researcher on Voice Synthesis, Chatbots, AI Interface
 - Yuchen Sunny Hou - Undergraduate Researcher on Robotics, HRI, and Fabrication
 - Yiou Huang - Undergraduate Researcher on AI Systems Design, Personality, Affective Computing
-- Leah Jenkins - Undergraduate Researcher on Digital Fabrication and Living Systems
+- [Leah Jenkins](www.linkedin.com/in/leah-jenkins-a57b77387) - Undergraduate Researcher on Digital Fabrication and Living Systems
 - Siheng Qu - Researcher on Generative AI and Digital Fabrication
 - Audrey Zhang - Undergraduate Researcher on Digital Fabrication and Living Systems 
 
