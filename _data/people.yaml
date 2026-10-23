@@ -1,0 +1,64 @@
+# rendered on /people
+current:
+  - name: Robert Twomey, Ph.D.
+    link: https://roberttwomey.com
+    role: Director, Associate Teaching Professor of Computing and the Arts, UCSD Visual Arts
+  - name: Timothy Carraher
+    link: https://www.linkedin.com/in/tcarraher
+    role: Undergraduate Researcher on Sound, Embedded Systems, and HRI
+  - name: Wallace Chiu
+    role: Undergraduate Researcher on Voice Synthesis, Chatbots, AI Interface
+  - name: Yuchen Sunny Hou
+    role: Undergraduate Researcher on Robotics, HRI, and Fabrication
+  - name: Yiou Huang
+    role: Undergraduate Researcher on AI Systems Design, Personality, Affective Computing
+  - name: Leah Jenkins
+    link: https://www.linkedin.com/in/leah-jenkins-a57b77387
+    role: Undergraduate Researcher on Digital Fabrication and Living Systems
+  - name: Siheng Qu
+    role: Researcher on Generative AI and Digital Fabrication
+  - name: Audrey Zhang
+    role: Undergraduate Researcher on Digital Fabrication and Living Systems
+
+collaborators:
+  - name: Ash Eliza Smith
+    link: https://arts.unl.edu/carson-center/faculty/ash-smith
+    role: Emerging Media Arts faculty and Director of the [Speculative Devices Lab](https://www.linkedin.com/company/speculative-devices-lab/posts/?feedView=all) at the [Johnny Carson Center for Emerging Media Arts](https://arts.unl.edu/carson-center), University of Nebraska-Lincoln.
+  - name: Jesse Fleming
+    link: https://arts.unl.edu/carson-center/faculty/jesse-fleming
+    role: Emerging Media Arts faculty and Director of the [Awareness Lab](https://awarenesslab.io/) at the [Johnny Carson Center for Emerging Media Arts](https://arts.unl.edu/carson-center), University of Nebraska-Lincoln.
+  - name: Erik Viirre, M.D., Ph.D.
+    link: https://profiles.ucsd.edu/erik.viirre
+    role: Director of the [Arthur C. Clarke Center for Human Imagination](https://imagination.ucsd.edu/), UC San Diego.
+  - name: Cassi Vieten, Ph.D.
+    link: https://profiles.ucsd.edu/cassandra.vieten
+    role: Research Director of the [Arthur C. Clarke Center for Human Imagination](https://imagination.ucsd.edu/), UC San Diego.
+  - name: Hortense Gerardo, Ph.D.
+    link: https://hortensegerardo.com/
+    role: Director of the [Anthropology, Performance, and Technology (APT) Program](https://jacobsschool.ucsd.edu/apt/about) at the Jacobs School of Engineering, UC San Diego.
+  - name: Amy Eguchi, Ph.D.
+    link: https://eds.ucsd.edu/people/faculty/eguchi.html
+    role: Education Studies faculty, UC San Diego.
+  - name: Ying Choon Wu, Ph.D.
+    link: https://sccn.ucsd.edu/eeglab/eeglab_news/18/Wu.php
+    role: Director of the [Insight Lab](https://insight.ucsd.edu/) at UC San Diego.
+
+alumni:
+  - name: Reid Brockmeier
+    link: https://www.linkedin.com/in/reidbrockmeier308/
+    role: Creative Technologist, Researcher on Generative AI, Digital Fabrication, Robotics, Embodied Code
+  - name: Lincoln Graham
+    link: https://www.linkedin.com/in/lincoln-graham-589070321/
+    role: UCARE Undergraduate Researcher on "Narrative Systems and Performative AI"
+  - name: Kylie Muller
+    link: https://www.linkedin.com/in/kylie-muller-031189211/
+    role: Undergraduate Researcher on Embodied Code, Curriculum Design
+  - name: Abraham Schaecher
+    link: https://www.linkedin.com/in/abraham-schaecher-002063202
+    role: UCARE Undergraduate Researcher on Generative AI, Data Science
+  - name: Emma Mirnics
+    link: https://www.linkedin.com/in/emma-mirnics/
+    role: Undergraduate Researcher with the Embodied Code Project
+  - name: Caleb Kirilov
+    link: https://www.linkedin.com/in/caleb-kirilov-14b843183/
+    role: UCARE Undergraduate Researcher

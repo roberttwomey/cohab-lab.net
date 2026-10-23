@@ -1,11 +1,9 @@
-{{ " " }}
-<div class="card" data-style="{{ include.style }}">
+<article class="card">
   <a
-    {% if include.link %}
-      href="{{ include.link | relative_url }}"
-    {% endif %}
-    aria-label="{{ include.title | default: "card link" }}"
+    {% if include.link %}href="{{ include.link | relative_url }}"{% endif %}
     class="card-image"
+    aria-label="{{ include.title | default: "card link" }}"
+    tabindex="-1"
   >
     <img
       src="{{ include.image | relative_url }}"
@@ -15,33 +13,20 @@
     >
   </a>
 
-  <div class="card-text">
-    {% if include.title %}
-      <a
-        {% if include.link %}
-          href="{{ include.link | relative_url }}"
-        {% endif %}
-        {% if include.tooltip %}
-          data-tooltip="{{ include.tooltip }}"
-        {% endif %}
-        class="card-title"
-      >
-        {{ include.title }}
-    </a>
-    {% endif %}
+  {% if include.title %}
+    <a
+      {% if include.link %}href="{{ include.link | relative_url }}"{% endif %}
+      class="card-title"
+    >{{ include.title }}</a>
+  {% endif %}
 
-    {% if include.subtitle %}
-      <span class="card-subtitle">{{ include.subtitle }}</span>
-    {% endif %}
+  {% if include.description %}
+    <p class="card-description">
+      {{ include.description | markdownify | remove: "<p>" | remove: "</p>" }}
+    </p>
+  {% endif %}
 
-    {% if include.description %}
-      <p>
-        {{ include.description | markdownify | remove: "<p>" | remove: "</p>" }}
-      </p>
-    {% endif %}
-
-    {% if include.tags or include.repo %}
-      {% include tags.html tags=include.tags repo=include.repo %}
-    {% endif %}
-  </div>
-</div>
+  {% if include.tags %}
+    {% include tags.html tags=include.tags %}
+  {% endif %}
+</article>

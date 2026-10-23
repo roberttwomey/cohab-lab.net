@@ -5,46 +5,39 @@ nav:
   tooltip: Software, datasets, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+<p class="eyebrow">Projects</p>
 
-{% include tags.html tags="performance, curatorial, hci, hri" %}
+# Performances, platforms, and experiments
+
+{% include tags.html tags="performance, curatorial, hci, hri, robotics, generative ai" %}
 
 {% include search-info.html %}
 
-## Featured
-
+<div class="cards" data-style="featured">
 {% include list.html component="card" data="projects" filters="group: featured" %}
+</div>
 
-## Software
+<div class="row">
+<p class="label">Research</p>
+<div class="cards">
+{% include list.html component="card" data="projects" filters="group: " %}
+</div>
+</div>
 
-{% include list.html component="card" data="projects" filters="group: software" style="small" %}
+<div class="row">
+<p class="label">Software</p>
+<div class="cards">
+{% include list.html component="card" data="projects" filters="group: software" %}
+</div>
+</div>
 
-## More
-
-<!-- {% include list.html component="card" data="projects" filters="group: " style="small" %} -->
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
-
-## Grants
-
+<div class="row">
+<p class="label">Support</p>
+<div markdown="1">
 - Embodied Code is supported by [NSF Grant #2017042](https://nsf.gov/awardsearch/showAward?AWD_ID=2017042)
-- Edgeworks, NRI Core Research Facility ([link](https://arts.unl.edu/carson-
-center/news/carson-center-earns-core-research-facility-designation))
+- Edgeworks, NRI Core Research Facility ([link](https://arts.unl.edu/carson-center/news/carson-center-earns-core-research-facility-designation))
 - [SPACE^2: Space, Policy, Agriculture, Climate, and Extreme Environment](https://bse.unl.edu/space2)
 - Art and Empathy is supported by a CAC Research in the Arts Grant
 - NVIDIA Developer Program. HP Data Science Proof of Concept (Z8).
-
-{% comment %}
-
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
-
-{% include section.html %}
-
-{% include section.html %}
-
-## More
-
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
-
-{% endcomment %}
+</div>
+</div>

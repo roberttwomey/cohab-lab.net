@@ -5,9 +5,11 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-pencil" %}Publications
+<p class="eyebrow">Publications</p>
 
-See [roberttwomey.com/writing/](https://roberttwomey.com/writing/) for now.
+# Writing and research
+
+See [roberttwomey.com/writing](https://roberttwomey.com/writing/) for now.
 
 {% comment %}
 

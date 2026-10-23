@@ -5,11 +5,13 @@ nav:
   tooltip: Email, address, and location
 ---
 
-# {% include icon.html icon="fa-regular fa-envelope" %}Contact
+<p class="eyebrow">Contact</p>
 
-Please reach out via email for inquiries about work, research, or possible collaboration.
+# Get in touch
 
-email: robert.twomey@gmail.com
+<p class="lede">Please reach out via email for inquiries about work, research, or possible collaboration.</p>
+
+<p><a class="big-link" href="mailto:robert.twomey@gmail.com">robert.twomey@gmail.com</a></p>
 
 {% comment %}
 

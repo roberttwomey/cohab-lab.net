@@ -1,0 +1,14 @@
+<ul class="people">
+  {% for person in include.people %}
+    <li>
+      <span class="person-name">
+        {% if person.link %}
+          <a href="{{ person.link }}">{{ person.name }}</a>
+        {% else %}
+          {{ person.name }}
+        {% endif %}
+      </span>
+      <span class="person-role">{{ person.role | markdownify | remove: "<p>" | remove: "</p>" }}</span>
+    </li>
+  {% endfor %}
+</ul>

@@ -32,25 +32,28 @@ module Jekyll
   class RssFeedTag < Liquid::Tag
     def initialize(tag_name, text, tokens)
       super
-      @url = text.strip
+      # usage: {% rss_feed https://example.com/rss 10 %}
+      @url, limit = text.strip.split(/\s+/)
+      @limit = limit ? limit.to_i : nil
     end
 
     def render(context)
-    #   feed = Feedjira::Feed.fetch_and_parse(@url)
       xml = HTTParty.get(@url).body
       feed = Feedjira.parse(xml)
-      output = "<ul>"
+      entries = @limit ? feed.entries.first(@limit) : feed.entries
 
-      feed.entries.each do |entry|
-        # formatted_date = entry.published.strftime('%Y-%m-%d') if entry.published
-        formatted_date = entry.published.strftime('%B %d, %Y') if entry.published
-        # output += "<li> #{formatted_date} <a href='#{entry.url}'>#{entry.title}</a></li>"
-        # output += "<li><a href='#{entry.url}'>#{entry.title}</a> </li>"
-        output += "<li> #{formatted_date} <a href='#{entry.url}'>#{entry.title}</a></li>"
+      output = "<ul class='feed'>"
+      entries.each do |entry|
+        date = entry.published
+        output += "<li>"
+        output += "<time datetime='#{date.strftime('%Y-%m-%d')}'>#{date.strftime('%b %-d, %Y')}</time>" if date
+        output += "<a href='#{entry.url}'>#{entry.title}</a></li>"
       end
-
       output += "</ul>"
       output
+    rescue => e
+      Jekyll.logger.warn "rss_feed:", "could not load #{@url}: #{e.message}"
+      ""
     end
   end
 end
